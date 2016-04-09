@@ -1,3 +1,30 @@
+###CN
+
+<a href="https://oclazyload.readme.io" target="_blank">ocLazyLoad</a> [![Build Status](https://travis-ci.org/ocombe/ocLazyLoad.svg)](https://travis-ci.org/ocombe/ocLazyLoad)
+==========
+
+Lazy load modules & components in AngularJS
+
+懒加载模块和组件在AngularJS
+
+找到所有的文件（及以上）上https://oclazyload.readme.io 
+
+ocLazyLoad
+
+主要特点
+
+依赖自动加载
+调试器友好（没有eval代码）
+将正常启动和负荷需求的能力
+通过服务或指令负荷
+使用嵌入式异步装载或使用你自己的（requirejs，…）
+加载JS（角或不）、CSS、模板文件
+兼容angularjs 1.2.x//1.4。x 1.3。
+寻求帮助
+
+我想找人帮我维护的代码（我会切换到角2很快，我不会更多的投入在角1和oclazyload）。如果你有兴趣的话，给我一个鸣叫“ocombe或电子邮件：olivier.combe @ gmail.com！
+###EN
+
 <a href="https://oclazyload.readme.io" target="_blank">ocLazyLoad</a> [![Build Status](https://travis-ci.org/ocombe/ocLazyLoad.svg)](https://travis-ci.org/ocombe/ocLazyLoad)
 ==========
 
